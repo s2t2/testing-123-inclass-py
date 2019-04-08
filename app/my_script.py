@@ -1,4 +1,4 @@
 
 
 def enlarge(i):
-    return i * 3
+    return i * 10000
